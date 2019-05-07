@@ -13,7 +13,7 @@
 <p>Auto-rainbow change of background colors.</p>
 
 <h1>License:</h1>
-<p>No license, all of free.</p>
+<p>All can be used freely, but mention  the GitHub my profile link in the HTML code.</p>
 
 <h1>Author:</h1>
 <p>✶ devlimee (www.github.com/devlimee) ✶</p>
