@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="css/rainbowbg.css">
 
 <center><h1>Rainbow background</h1>
-<p>www.github.com/devshazy</p></center>
+<p>www.github.com/devlimee</p></center>
 
 <h1>Short description:</h1>
 <p>Auto-rainbow change of background colors.</p>
