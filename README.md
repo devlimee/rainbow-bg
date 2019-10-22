@@ -12,11 +12,11 @@
 <h1>Short description:</h1>
 <p>Auto-rainbow change of background colors.</p>
 
-<h1>License:</h1>
-<p>Everything is free to use, but mention me in the HTML code.</p>
-
 <h1>Author:</h1>
 <p>✶ devlimee (www.github.com/devlimee) ✶</p>
+
+# Distributed under the MIT license
+See `LICENSE` for more information.
 
 </body>
 </html>
